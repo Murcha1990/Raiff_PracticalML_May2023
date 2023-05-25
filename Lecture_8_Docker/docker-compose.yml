@@ -1,0 +1,15 @@
+services:
+  fast_api_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+    volumes:
+      - fast_api_volume:/code/volume
+  tutorial:
+    image: docker/getting-started
+    volumes:
+      - fast_api_volume:/volume
+volumes:
+  fast_api_volume:

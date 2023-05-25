@@ -1,0 +1,6 @@
+accountlength,areacode,customerservicecalls,numbervmailmessages,totaldaycalls,totaldayminutes,totalevecalls,totaleveminutes,totalintlcalls,totalintlminutes,totalnightcalls,totalnightminutes
+96,415,3,33,115.0,183.3,87.0,201.4,15.0,10.4,84.0,177.4
+150,510,1,0,123.0,169.2,83.0,216.8,3.0,12.6,107.0,179.4
+33,510,1,35,85.0,161.9,82.0,151.2,2.0,8.5,131.0,191.0
+109,415,4,46,123.0,217.5,84.0,233.7,3.0,9.0,99.0,163.9
+36,408,2,0,129.0,177.9,87.0,224.6,6.0,10.8,102.0,306.3
